@@ -1,0 +1,16 @@
+body {
+    background-color: navy;
+    /* display: flex; */
+    /* justify-content: center; */
+    align-items: center;
+    /* height: 100vh; */
+    margin: 0;
+}
+
+.logo-img {
+    width: 300px;
+    height: 300px;
+}
+.text{
+    color: rgb(197, 172, 77);
+}
