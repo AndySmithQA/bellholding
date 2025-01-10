@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+IN:wght@100..400&display=swap');
+
 body {
     background-color: navy;
     /* display: flex; */
@@ -13,4 +15,5 @@ body {
 }
 .text{
     color: rgb(197, 172, 77);
+    font-family: 'Playwrite IN', sans-serif;
 }
